@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+### [13.4.10](https://github.com/googleapis/release-please/compare/v13.4.9...v13.4.10) (2022-02-14)
+
+
+### Bug Fixes
+
+* **go-yoshi:** dynamically load list of ignored submodules for google-cloud-go ([#1291](https://github.com/googleapis/release-please/issues/1291)) ([36f6ad9](https://github.com/googleapis/release-please/commit/36f6ad94fe471e5a46cc46ebd6f5b5c581a29c2c))
+* return uploadUrl and body when creating release ([#1298](https://github.com/googleapis/release-please/issues/1298)) ([5d767c5](https://github.com/googleapis/release-please/commit/5d767c536594a8e24d274a4268cda1f1aa3babff))
+
 ### [13.4.9](https://github.com/googleapis/release-please/compare/v13.4.8...v13.4.9) (2022-02-14)
 
 
